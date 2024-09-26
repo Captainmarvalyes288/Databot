@@ -3,7 +3,7 @@ from langchain_community.llms import Ollama
 import pandas as pd
 from pandasai import SmartDataframe
 from pandasai.llm import OpenAI
-import plotly.express as px  # Corrected
+import plotly.express as px  
 
 # Set page config for a wider layout
 st.set_page_config(layout="wide")
