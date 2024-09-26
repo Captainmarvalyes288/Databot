@@ -3,3 +3,5 @@ langchain_community
 pandasai
 ollama
 streamlit
+plotly
+pandas
